@@ -26,3 +26,12 @@ To run this project locally:
    ```bash
    git clone https://github.com/JoshTVR/My-First-Flutter-App.git
    ```
+
+## Progress update
+
+This is how it looks right now, I've finished the [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab) from Flutter Docs.
+
+![ScreenFlutterApp](/imgs/ScreenFlutterApp.png)
+![ScreenFlutterFavorites](/imgs/ScreenFlutterFavorites.png)
+
+This isn’t the end of this repository! I still want to build something original using everything I’ve learned so far. For now, though, this is a savepoint.
